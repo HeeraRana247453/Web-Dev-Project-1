@@ -1,0 +1,1 @@
+Disclaimer: This project is a UI clone created for educational and practice purposes only. It is not an official product of Flipkart, and I do not claim any affiliation with the company. All visual elements, logos, and trademarks belong to their respective owners.
